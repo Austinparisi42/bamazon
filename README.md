@@ -25,6 +25,8 @@ If the response is valid and the item is in stock the app does a little bit of m
 
 ![screenshot 5](https://user-images.githubusercontent.com/26259459/32069002-7deb8fa2-ba4d-11e7-956a-79493ccb664e.png)
 
+If you run the app again, the changes in the stock have been saved
+
 
 
 
